@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/CryptoAutoTrade/.vs/CryptoAutoTrade/v16
+/CryptoAutoTrade/CryptoAutoTrade/bin/Debug/netcoreapp3.1
+/CryptoAutoTrade/CryptoAutoTrade/obj
